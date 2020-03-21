@@ -13,6 +13,13 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
-.idea/
-*.iml
 *.class
+target
+bin
+.settings
+.project
+.classpath
+.idea
+.DS_Store
+*.iml
+/.idea
